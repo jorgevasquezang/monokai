@@ -1,4 +1,4 @@
-# monokai
+# Monokai Theme
 Custom Monokai Theme Intellij/Webstorm
 
 Monokai Theme
