@@ -1,4 +1,4 @@
-# Monokai Theme
+# Sublime Monokai Theme
 Custom Monokai Theme Intellij/Webstorm
 
 Monokai Theme
